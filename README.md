@@ -26,9 +26,11 @@
 
 `❤️ Yakuza 0`
 `Path of Exile`
-`Stellaris`
+`⭐Stellaris`
 `The Witness`
-`Sea of Thieves`
+`🏴‍☠️Sea of Thieves`
 `Elden Ring`
 `💀 Yakuza Ishin`
+`Civilization 6`
+`🚀Kerbal Space Program`
 `And much more…`
