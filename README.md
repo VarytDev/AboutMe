@@ -2,11 +2,11 @@
 
 ⚙ **Unity/Unreal** - Game Engine
 
-📄 **VS 2022** - C#/C++ Coding
+📄 **VS 2022/Rider** - C#/C++ Coding
 
 🌐 **Blender** - 3D Modelling
 
-🎨 **Photoshop/Aseprite** - 2D Art
+🎨 **Photopea/Aseprite** - 2D Art
 
 🎵 **FL Studio** - Audio & Music
 
