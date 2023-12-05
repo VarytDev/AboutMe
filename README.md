@@ -4,6 +4,8 @@
 
 📄 **VS 2022/Rider** - C#/C++ Coding
 
+🔴 **VSCode** - HLSL Coding
+
 🌐 **Blender** - 3D Modelling
 
 🎨 **Photopea/Aseprite** - 2D Art
