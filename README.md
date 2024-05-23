@@ -34,6 +34,7 @@
 `Elden Ring`
 `💀 Yakuza Ishin`
 `Civilization 6`
-
 `🚀Kerbal Space Program`
+`Judgement`
+`🎲 Baldurs Gate 3`
 `And much more…`
